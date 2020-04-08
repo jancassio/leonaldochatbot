@@ -13,9 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "botkit": "^0.2.0"
-  },
-  "devDependencies": {
+    "botkit": "^0.2.0",
     "nodemon": "^2.0.2"
   }
 }
