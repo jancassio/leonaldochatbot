@@ -6,9 +6,7 @@ if (!process.env.token) {
 var Botkit = require('botkit');
 var os = require('os');
 
-var controller = Botkit.slackbot({
-    debug: true,
-});
+var controller = Botkit.slackbot();
 
 var bot = controller.spawn({
     token: process.env.token
