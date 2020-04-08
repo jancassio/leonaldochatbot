@@ -1,2 +1,6 @@
 # leonaldochatbot
-Chat bot for entertainment 
+
+A experiment slackbot for studying and for entertainment.
+
+## License
+MIT
