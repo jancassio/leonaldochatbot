@@ -16,6 +16,6 @@
     "botkit": "^0.2.0"
   },
   "devDependencies": {
-    "nodemon": "^1.9.2"
+    "nodemon": "^2.0.2"
   }
 }
