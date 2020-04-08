@@ -1,0 +1,21 @@
+{
+  "name": "slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "engines": {
+    "node": "12.16.x"
+  },
+  "scripts": {
+    "start": "token={{BOT_TOKEN}} nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.9.2"
+  }
+}
